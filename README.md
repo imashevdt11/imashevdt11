@@ -16,7 +16,7 @@
 
 - :telescope: I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Improving my testing skills with JUnit
+- :seedling: studying "Java: The Complete Reference" book by Herbert Shildt
 
 - :zap: In my free time, I do different things
 
