@@ -6,21 +6,14 @@
   <a href="https://www.linkedin.com/in/diyas-imashev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=imashevdt11&style=flat-square&color=blue" alt=""/>
-  <h1> Hi, I'm imashevdt11
+  <h1> hi, i'm imashevdt11
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### :man_technologist: About Me :
 
-- :telescope: I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :seedling: working as Intern Java Software Developer
-
-- :zap: 
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/imashevdt-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imashevdt)
+- :telescope: i'm a java software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
